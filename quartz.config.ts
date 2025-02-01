@@ -20,8 +20,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Offside",
-        body: "Ubuntu",
-        code: "Fira Code",
+        body: "Overpass",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -35,17 +35,28 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
+        // darkMode: {
+        //   light: "#2b2b2b",
+        //   lightgray: "#393639",
+        //   gray: "#646464",
+        //   darkgray: "#d4d4d4",
+        //   dark: "#F2E5BC",
+        //   secondary: "#928374",
+        //   tertiary: "#a89984",
+        //   highlight: "rgba(143, 159, 169, 0.15)",
+        //   textHighlight: "#7b6e1b",
+        // },
         darkMode: {
-          light: "#2b2b2b",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#F2E5BC",
-          secondary: "#928374",
-          tertiary: "#a89984",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+          light: "#373534",        // Darker background for better contrast  
+          lightgray: "#494745",    // Subtle contrast for UI elements  
+          gray: "#8d8d8d",         // Medium gray for secondary elements  
+          darkgray: "#d4d4d4",     // Well-balanced gray for subtext and secondary text  
+          dark: "#fcf2d8",         // Warm beige for main text (readable but not harsh)  
+          secondary: "#feb976",    // Muted golden-yellow for buttons and accents  
+          tertiary: "#bb8a3e",     // Darker gold for subheadings (less bright)  
+          highlight: "rgba(131, 165, 152, 0.3)",  // Soft teal-green for background highlights  
+          textHighlight: "#7b6e1b", // Muted teal-blue for text highlights (clear contrast with white text)  
+        }
       },
     },
   },

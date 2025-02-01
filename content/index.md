@@ -1,5 +1,5 @@
 ---
-title: It's My Cryptic Grove 🌱
+title: My Cryptic Grove 🌱
 ---
 ![[Pasted image 20250201105554.png]]
 
