@@ -16,3 +16,5 @@ My interests revolve around:
 - Financial Analytics & Cybercrime Research – Understanding fraud at scale.
 
 This digital garden is my evolving map of knowledge—scattered, structured, and always growing. Feel free to explore! 🚀
+
+An Easter egg 🥚. I hid my poetry self somewhere in this website 👀. 
