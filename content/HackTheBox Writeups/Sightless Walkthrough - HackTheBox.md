@@ -1,4 +1,3 @@
-Sightless Walkthrough — HackTheBox
 ==================================
 
 ![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5gZtAl72mE9v8miAIo2c6g.png)

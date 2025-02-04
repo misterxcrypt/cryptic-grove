@@ -1,4 +1,3 @@
-PermX Walkthrough — HackTheBox
 ==============================
 
 ![captionless image](https://miro.medium.com/v2/resize:fit:1388/format:webp/1*_d1GtfPjVEoaekQliy8MHg.png)

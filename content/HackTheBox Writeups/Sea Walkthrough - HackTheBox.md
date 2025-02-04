@@ -1,4 +1,3 @@
-Sea Walkthrough — HackTheBox
 ============================
 
 ![captionless image](https://miro.medium.com/v2/resize:fit:1396/format:webp/1*CcuxoxsOP4AMdxMfbTXH_Q.png)
