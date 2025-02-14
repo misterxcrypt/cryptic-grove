@@ -13,7 +13,7 @@ My interests revolve around:
 
 - Cyber Threat Intelligence – Tracking threat actors, scams, and financial fraud.
 - OSINT & Social Engineering – Gathering intelligence from the wild.
-- Financial Analytics & Cybercrime Research – Understanding fraud at scale.
+- Cybercrime Research – Understanding fraud at scale.
 
 This digital garden is my evolving map of knowledge—scattered, structured, and always growing. Feel free to explore! 🚀
 
