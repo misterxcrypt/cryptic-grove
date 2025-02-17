@@ -1,7 +1,7 @@
 ---
 title: My Cryptic Grove 🌱
 ---
-![[bunny_in_a_grove.webp]]
+![[mrxcrypt-in-garden-1.jpg]]
 
 Hello mate! This is me, MrXcrypt, and welcome to my digital garden.
 
