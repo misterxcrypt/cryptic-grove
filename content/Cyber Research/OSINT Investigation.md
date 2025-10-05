@@ -10,6 +10,7 @@
 8. From there, we can find other pivotal crucial data. 
 
 ## Notes:
+
 1. Analyze profile pictures on these bot accounts.
 2. Use canvas to take notes and screenshots
 3. Always use VPN will going through these websites
