@@ -6,7 +6,7 @@
 4. We can go through ad transparency by these accounts.
 5. Find which regions are targeted by these networks.
 6. Find out website registration information.
-7. phone numbers and emails are very useful to find profile picture, location.
+7. Phone numbers and emails are very useful to find profile picture, location.
 8. From there, we can find other pivotal crucial data. 
 
 ## Notes:
